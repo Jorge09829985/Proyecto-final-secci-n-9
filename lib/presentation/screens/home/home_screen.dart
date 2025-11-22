@@ -12,7 +12,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('flutter + material 3'),
+        title: Text('Botones y Tarjeta'),
       ),
       body: const _HomeView(),
     );
